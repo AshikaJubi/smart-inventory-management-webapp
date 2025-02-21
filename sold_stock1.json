@@ -1,0 +1,3602 @@
+[
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210002",
+        "Date": "2024-01-01"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110046",
+        "Date": "2024-01-01"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310004",
+        "Date": "2024-01-02"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310049",
+        "Date": "2024-01-02"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110046",
+        "Date": "2024-01-02"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210030",
+        "Date": "2024-01-02"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310012",
+        "Date": "2024-01-03"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210020",
+        "Date": "2024-01-03"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210005",
+        "Date": "2024-01-03"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310048",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110039",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210037",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310020",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310023",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110017",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210019",
+        "Date": "2024-01-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310000",
+        "Date": "2024-01-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310043",
+        "Date": "2024-01-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110009",
+        "Date": "2024-01-05"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110049",
+        "Date": "2024-01-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110008",
+        "Date": "2024-01-06"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210028",
+        "Date": "2024-01-06"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110017",
+        "Date": "2024-01-06"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110008",
+        "Date": "2024-01-06"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210004",
+        "Date": "2024-01-06"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310043",
+        "Date": "2024-01-06"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110036",
+        "Date": "2024-01-07"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210039",
+        "Date": "2024-01-07"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110000",
+        "Date": "2024-01-07"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210003",
+        "Date": "2024-01-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310026",
+        "Date": "2024-01-07"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110011",
+        "Date": "2024-01-07"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310008",
+        "Date": "2024-01-08"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210017",
+        "Date": "2024-01-08"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210044",
+        "Date": "2024-01-09"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110040",
+        "Date": "2024-01-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110011",
+        "Date": "2024-01-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110022",
+        "Date": "2024-01-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310039",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110033",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110015",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110021",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310040",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110038",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210001",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210036",
+        "Date": "2024-01-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110001",
+        "Date": "2024-01-11"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310027",
+        "Date": "2024-01-11"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210007",
+        "Date": "2024-01-12"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110030",
+        "Date": "2024-01-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110002",
+        "Date": "2024-01-12"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210017",
+        "Date": "2024-01-12"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110037",
+        "Date": "2024-01-12"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310032",
+        "Date": "2024-01-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110015",
+        "Date": "2024-01-13"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110032",
+        "Date": "2024-01-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210026",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310047",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210040",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110040",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210020",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210046",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210016",
+        "Date": "2024-01-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210023",
+        "Date": "2024-01-15"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310036",
+        "Date": "2024-01-15"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210002",
+        "Date": "2024-01-15"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210025",
+        "Date": "2024-01-15"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110013",
+        "Date": "2024-01-16"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110017",
+        "Date": "2024-01-16"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210048",
+        "Date": "2024-01-16"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110043",
+        "Date": "2024-01-17"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210003",
+        "Date": "2024-01-17"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210027",
+        "Date": "2024-01-17"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310035",
+        "Date": "2024-01-17"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110013",
+        "Date": "2024-01-17"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110048",
+        "Date": "2024-01-18"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310042",
+        "Date": "2024-01-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110045",
+        "Date": "2024-01-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310010",
+        "Date": "2024-01-19"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210036",
+        "Date": "2024-01-20"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210020",
+        "Date": "2024-01-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310002",
+        "Date": "2024-01-20"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310024",
+        "Date": "2024-01-20"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210029",
+        "Date": "2024-01-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310023",
+        "Date": "2024-01-21"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310033",
+        "Date": "2024-01-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310046",
+        "Date": "2024-01-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310001",
+        "Date": "2024-01-23"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210005",
+        "Date": "2024-01-23"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110035",
+        "Date": "2024-01-24"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310034",
+        "Date": "2024-01-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310037",
+        "Date": "2024-01-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310025",
+        "Date": "2024-01-24"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110026",
+        "Date": "2024-01-25"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210015",
+        "Date": "2024-01-25"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110037",
+        "Date": "2024-01-25"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310044",
+        "Date": "2024-01-26"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310026",
+        "Date": "2024-01-26"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210043",
+        "Date": "2024-01-26"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110014",
+        "Date": "2024-01-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310006",
+        "Date": "2024-01-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110017",
+        "Date": "2024-01-28"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110042",
+        "Date": "2024-01-28"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210027",
+        "Date": "2024-01-28"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210019",
+        "Date": "2024-01-28"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110041",
+        "Date": "2024-01-28"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310036",
+        "Date": "2024-01-29"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210001",
+        "Date": "2024-01-29"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310049",
+        "Date": "2024-01-29"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110007",
+        "Date": "2024-01-29"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310036",
+        "Date": "2024-01-30"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210008",
+        "Date": "2024-01-30"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210012",
+        "Date": "2024-01-30"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310035",
+        "Date": "2024-01-31"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210025",
+        "Date": "2024-01-31"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110042",
+        "Date": "2024-01-31"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210028",
+        "Date": "2024-01-31"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210009",
+        "Date": "2024-01-31"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210030",
+        "Date": "2024-02-01"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210026",
+        "Date": "2024-02-01"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310022",
+        "Date": "2024-02-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110009",
+        "Date": "2024-02-02"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110022",
+        "Date": "2024-02-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110031",
+        "Date": "2024-02-02"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210048",
+        "Date": "2024-02-02"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310023",
+        "Date": "2024-02-02"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110045",
+        "Date": "2024-02-03"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110046",
+        "Date": "2024-02-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110008",
+        "Date": "2024-02-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310034",
+        "Date": "2024-02-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310031",
+        "Date": "2024-02-03"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310018",
+        "Date": "2024-02-03"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110018",
+        "Date": "2024-02-04"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210033",
+        "Date": "2024-02-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110048",
+        "Date": "2024-02-04"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110039",
+        "Date": "2024-02-05"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210040",
+        "Date": "2024-02-06"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210044",
+        "Date": "2024-02-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210038",
+        "Date": "2024-02-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110043",
+        "Date": "2024-02-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110027",
+        "Date": "2024-02-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110037",
+        "Date": "2024-02-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210035",
+        "Date": "2024-02-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310033",
+        "Date": "2024-02-08"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110012",
+        "Date": "2024-02-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210024",
+        "Date": "2024-02-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110005",
+        "Date": "2024-02-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210010",
+        "Date": "2024-02-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210015",
+        "Date": "2024-02-10"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310005",
+        "Date": "2024-02-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210007",
+        "Date": "2024-02-11"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310017",
+        "Date": "2024-02-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210006",
+        "Date": "2024-02-12"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210030",
+        "Date": "2024-02-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210012",
+        "Date": "2024-02-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210039",
+        "Date": "2024-02-12"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110001",
+        "Date": "2024-02-12"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110046",
+        "Date": "2024-02-13"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110043",
+        "Date": "2024-02-13"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210003",
+        "Date": "2024-02-13"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310029",
+        "Date": "2024-02-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210005",
+        "Date": "2024-02-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110019",
+        "Date": "2024-02-15"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210005",
+        "Date": "2024-02-15"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110035",
+        "Date": "2024-02-15"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310013",
+        "Date": "2024-02-15"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110030",
+        "Date": "2024-02-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110038",
+        "Date": "2024-02-17"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110030",
+        "Date": "2024-02-17"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210048",
+        "Date": "2024-02-17"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110004",
+        "Date": "2024-02-17"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110013",
+        "Date": "2024-02-17"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110017",
+        "Date": "2024-02-18"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310047",
+        "Date": "2024-02-18"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110044",
+        "Date": "2024-02-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210010",
+        "Date": "2024-02-18"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310009",
+        "Date": "2024-02-18"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210004",
+        "Date": "2024-02-19"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210000",
+        "Date": "2024-02-19"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310003",
+        "Date": "2024-02-19"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310042",
+        "Date": "2024-02-20"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110020",
+        "Date": "2024-02-20"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110047",
+        "Date": "2024-02-20"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110003",
+        "Date": "2024-02-20"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110011",
+        "Date": "2024-02-20"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110047",
+        "Date": "2024-02-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310041",
+        "Date": "2024-02-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110021",
+        "Date": "2024-02-21"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110044",
+        "Date": "2024-02-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210041",
+        "Date": "2024-02-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110010",
+        "Date": "2024-02-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110029",
+        "Date": "2024-02-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110049",
+        "Date": "2024-02-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110003",
+        "Date": "2024-02-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110000",
+        "Date": "2024-02-23"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310018",
+        "Date": "2024-02-23"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110039",
+        "Date": "2024-02-23"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210006",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310006",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110034",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110047",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310005",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210005",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310008",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210009",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110007",
+        "Date": "2024-02-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210043",
+        "Date": "2024-02-25"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110035",
+        "Date": "2024-02-25"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110006",
+        "Date": "2024-02-26"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310004",
+        "Date": "2024-02-26"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110038",
+        "Date": "2024-02-26"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310044",
+        "Date": "2024-02-26"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210037",
+        "Date": "2024-02-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110007",
+        "Date": "2024-02-27"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110016",
+        "Date": "2024-02-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310048",
+        "Date": "2024-02-27"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210022",
+        "Date": "2024-02-28"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210009",
+        "Date": "2024-02-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310030",
+        "Date": "2024-02-28"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110005",
+        "Date": "2024-02-29"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310000",
+        "Date": "2024-03-01"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310023",
+        "Date": "2024-03-02"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210034",
+        "Date": "2024-03-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110036",
+        "Date": "2024-03-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110036",
+        "Date": "2024-03-04"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210033",
+        "Date": "2024-03-04"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310001",
+        "Date": "2024-03-04"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310033",
+        "Date": "2024-03-05"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310012",
+        "Date": "2024-03-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310009",
+        "Date": "2024-03-05"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310015",
+        "Date": "2024-03-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310033",
+        "Date": "2024-03-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110008",
+        "Date": "2024-03-06"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110000",
+        "Date": "2024-03-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210032",
+        "Date": "2024-03-07"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110039",
+        "Date": "2024-03-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110026",
+        "Date": "2024-03-08"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110041",
+        "Date": "2024-03-08"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310025",
+        "Date": "2024-03-08"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110003",
+        "Date": "2024-03-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210013",
+        "Date": "2024-03-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310026",
+        "Date": "2024-03-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210026",
+        "Date": "2024-03-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210023",
+        "Date": "2024-03-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110035",
+        "Date": "2024-03-10"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310026",
+        "Date": "2024-03-11"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110041",
+        "Date": "2024-03-11"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210010",
+        "Date": "2024-03-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310018",
+        "Date": "2024-03-12"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210036",
+        "Date": "2024-03-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210012",
+        "Date": "2024-03-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110025",
+        "Date": "2024-03-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210009",
+        "Date": "2024-03-12"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110032",
+        "Date": "2024-03-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210004",
+        "Date": "2024-03-13"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210026",
+        "Date": "2024-03-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110001",
+        "Date": "2024-03-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110022",
+        "Date": "2024-03-14"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110025",
+        "Date": "2024-03-15"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210028",
+        "Date": "2024-03-15"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310033",
+        "Date": "2024-03-15"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110005",
+        "Date": "2024-03-15"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110031",
+        "Date": "2024-03-16"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310032",
+        "Date": "2024-03-16"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310024",
+        "Date": "2024-03-16"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110019",
+        "Date": "2024-03-17"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210002",
+        "Date": "2024-03-18"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210003",
+        "Date": "2024-03-18"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110021",
+        "Date": "2024-03-19"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210008",
+        "Date": "2024-03-19"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110032",
+        "Date": "2024-03-19"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310038",
+        "Date": "2024-03-19"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210028",
+        "Date": "2024-03-19"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210038",
+        "Date": "2024-03-20"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310027",
+        "Date": "2024-03-20"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110029",
+        "Date": "2024-03-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310041",
+        "Date": "2024-03-21"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110049",
+        "Date": "2024-03-21"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210045",
+        "Date": "2024-03-21"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210038",
+        "Date": "2024-03-21"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110003",
+        "Date": "2024-03-21"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110025",
+        "Date": "2024-03-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110020",
+        "Date": "2024-03-22"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110026",
+        "Date": "2024-03-22"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310003",
+        "Date": "2024-03-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310021",
+        "Date": "2024-03-25"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310047",
+        "Date": "2024-03-25"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310007",
+        "Date": "2024-03-25"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310039",
+        "Date": "2024-03-26"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310036",
+        "Date": "2024-03-26"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310043",
+        "Date": "2024-03-26"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210004",
+        "Date": "2024-03-27"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310013",
+        "Date": "2024-03-27"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310031",
+        "Date": "2024-03-28"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210043",
+        "Date": "2024-03-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310040",
+        "Date": "2024-03-28"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310036",
+        "Date": "2024-03-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210048",
+        "Date": "2024-03-29"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110033",
+        "Date": "2024-03-29"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310019",
+        "Date": "2024-03-29"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110036",
+        "Date": "2024-03-30"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110005",
+        "Date": "2024-03-30"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310037",
+        "Date": "2024-03-30"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110042",
+        "Date": "2024-03-30"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210015",
+        "Date": "2024-03-31"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310034",
+        "Date": "2024-03-31"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110045",
+        "Date": "2024-04-01"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310000",
+        "Date": "2024-04-01"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310023",
+        "Date": "2024-04-02"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110035",
+        "Date": "2024-04-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210049",
+        "Date": "2024-04-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210009",
+        "Date": "2024-04-02"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210015",
+        "Date": "2024-04-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210002",
+        "Date": "2024-04-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310026",
+        "Date": "2024-04-04"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310035",
+        "Date": "2024-04-04"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310012",
+        "Date": "2024-04-05"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110027",
+        "Date": "2024-04-05"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310005",
+        "Date": "2024-04-05"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210025",
+        "Date": "2024-04-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210023",
+        "Date": "2024-04-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310032",
+        "Date": "2024-04-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210022",
+        "Date": "2024-04-06"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310012",
+        "Date": "2024-04-06"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210022",
+        "Date": "2024-04-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210048",
+        "Date": "2024-04-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310016",
+        "Date": "2024-04-07"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110008",
+        "Date": "2024-04-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310048",
+        "Date": "2024-04-07"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310021",
+        "Date": "2024-04-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310030",
+        "Date": "2024-04-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310020",
+        "Date": "2024-04-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310045",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210012",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110033",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310009",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310023",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110019",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210048",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310008",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110046",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210002",
+        "Date": "2024-04-09"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110048",
+        "Date": "2024-04-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110041",
+        "Date": "2024-04-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110025",
+        "Date": "2024-04-12"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110002",
+        "Date": "2024-04-13"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210037",
+        "Date": "2024-04-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210026",
+        "Date": "2024-04-13"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110030",
+        "Date": "2024-04-13"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210036",
+        "Date": "2024-04-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110044",
+        "Date": "2024-04-15"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110049",
+        "Date": "2024-04-16"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210023",
+        "Date": "2024-04-17"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210024",
+        "Date": "2024-04-17"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310003",
+        "Date": "2024-04-17"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110012",
+        "Date": "2024-04-17"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310018",
+        "Date": "2024-04-17"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310035",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310048",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310038",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110025",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310041",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310011",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110048",
+        "Date": "2024-04-18"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310002",
+        "Date": "2024-04-19"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310042",
+        "Date": "2024-04-19"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310023",
+        "Date": "2024-04-19"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310031",
+        "Date": "2024-04-20"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110006",
+        "Date": "2024-04-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210019",
+        "Date": "2024-04-21"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210030",
+        "Date": "2024-04-21"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310032",
+        "Date": "2024-04-21"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210040",
+        "Date": "2024-04-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210042",
+        "Date": "2024-04-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310031",
+        "Date": "2024-04-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310011",
+        "Date": "2024-04-22"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110042",
+        "Date": "2024-04-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210000",
+        "Date": "2024-04-22"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210039",
+        "Date": "2024-04-23"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110047",
+        "Date": "2024-04-23"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110018",
+        "Date": "2024-04-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110040",
+        "Date": "2024-04-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110031",
+        "Date": "2024-04-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110035",
+        "Date": "2024-04-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210012",
+        "Date": "2024-04-26"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310019",
+        "Date": "2024-04-26"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310038",
+        "Date": "2024-04-27"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310017",
+        "Date": "2024-04-27"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110007",
+        "Date": "2024-04-27"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210032",
+        "Date": "2024-04-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110038",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210000",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110009",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310007",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310002",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310038",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210048",
+        "Date": "2024-04-29"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210030",
+        "Date": "2024-04-30"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110021",
+        "Date": "2024-04-30"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110028",
+        "Date": "2024-05-01"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210001",
+        "Date": "2024-05-01"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310025",
+        "Date": "2024-05-01"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110016",
+        "Date": "2024-05-01"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210038",
+        "Date": "2024-05-01"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110027",
+        "Date": "2024-05-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310034",
+        "Date": "2024-05-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110006",
+        "Date": "2024-05-03"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110007",
+        "Date": "2024-05-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210011",
+        "Date": "2024-05-03"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210014",
+        "Date": "2024-05-04"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210028",
+        "Date": "2024-05-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110007",
+        "Date": "2024-05-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210016",
+        "Date": "2024-05-05"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310042",
+        "Date": "2024-05-05"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310038",
+        "Date": "2024-05-05"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310030",
+        "Date": "2024-05-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210023",
+        "Date": "2024-05-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110043",
+        "Date": "2024-05-06"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310035",
+        "Date": "2024-05-06"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310044",
+        "Date": "2024-05-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310047",
+        "Date": "2024-05-07"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310022",
+        "Date": "2024-05-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210028",
+        "Date": "2024-05-08"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210010",
+        "Date": "2024-05-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310042",
+        "Date": "2024-05-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110042",
+        "Date": "2024-05-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310009",
+        "Date": "2024-05-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110022",
+        "Date": "2024-05-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210012",
+        "Date": "2024-05-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310015",
+        "Date": "2024-05-09"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210036",
+        "Date": "2024-05-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110030",
+        "Date": "2024-05-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310000",
+        "Date": "2024-05-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210047",
+        "Date": "2024-05-10"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310017",
+        "Date": "2024-05-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110004",
+        "Date": "2024-05-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310013",
+        "Date": "2024-05-11"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210020",
+        "Date": "2024-05-11"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210007",
+        "Date": "2024-05-11"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210044",
+        "Date": "2024-05-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210021",
+        "Date": "2024-05-12"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210022",
+        "Date": "2024-05-13"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210049",
+        "Date": "2024-05-13"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210010",
+        "Date": "2024-05-14"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110004",
+        "Date": "2024-05-14"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110013",
+        "Date": "2024-05-14"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310022",
+        "Date": "2024-05-15"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310019",
+        "Date": "2024-05-15"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210020",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310022",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310044",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210002",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210017",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310006",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110019",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110005",
+        "Date": "2024-05-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310009",
+        "Date": "2024-05-17"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310049",
+        "Date": "2024-05-19"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210036",
+        "Date": "2024-05-19"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110038",
+        "Date": "2024-05-20"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310033",
+        "Date": "2024-05-20"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210033",
+        "Date": "2024-05-20"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310033",
+        "Date": "2024-05-20"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310038",
+        "Date": "2024-05-21"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310044",
+        "Date": "2024-05-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310019",
+        "Date": "2024-05-22"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110026",
+        "Date": "2024-05-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310030",
+        "Date": "2024-05-23"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210010",
+        "Date": "2024-05-23"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310032",
+        "Date": "2024-05-24"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210034",
+        "Date": "2024-05-24"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310006",
+        "Date": "2024-05-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110010",
+        "Date": "2024-05-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310008",
+        "Date": "2024-05-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310042",
+        "Date": "2024-05-25"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110002",
+        "Date": "2024-05-25"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210042",
+        "Date": "2024-05-26"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210009",
+        "Date": "2024-05-26"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110002",
+        "Date": "2024-05-26"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210018",
+        "Date": "2024-05-27"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310001",
+        "Date": "2024-05-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110046",
+        "Date": "2024-05-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110023",
+        "Date": "2024-05-27"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210044",
+        "Date": "2024-05-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110003",
+        "Date": "2024-05-28"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210032",
+        "Date": "2024-05-28"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110012",
+        "Date": "2024-05-29"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310005",
+        "Date": "2024-05-29"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210042",
+        "Date": "2024-05-29"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110037",
+        "Date": "2024-05-30"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110033",
+        "Date": "2024-05-30"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210003",
+        "Date": "2024-05-31"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210045",
+        "Date": "2024-05-31"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210026",
+        "Date": "2024-05-31"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310004",
+        "Date": "2024-06-01"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110034",
+        "Date": "2024-06-01"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310013",
+        "Date": "2024-06-01"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210047",
+        "Date": "2024-06-01"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110047",
+        "Date": "2024-06-01"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110000",
+        "Date": "2024-06-01"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110033",
+        "Date": "2024-06-02"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110021",
+        "Date": "2024-06-02"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110032",
+        "Date": "2024-06-02"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110000",
+        "Date": "2024-06-03"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110012",
+        "Date": "2024-06-03"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310009",
+        "Date": "2024-06-03"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110032",
+        "Date": "2024-06-04"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310026",
+        "Date": "2024-06-04"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310047",
+        "Date": "2024-06-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110019",
+        "Date": "2024-06-05"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310005",
+        "Date": "2024-06-05"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310042",
+        "Date": "2024-06-05"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210013",
+        "Date": "2024-06-05"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210039",
+        "Date": "2024-06-06"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210013",
+        "Date": "2024-06-06"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310039",
+        "Date": "2024-06-06"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310013",
+        "Date": "2024-06-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210041",
+        "Date": "2024-06-07"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110004",
+        "Date": "2024-06-08"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310047",
+        "Date": "2024-06-08"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310041",
+        "Date": "2024-06-08"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110032",
+        "Date": "2024-06-08"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210022",
+        "Date": "2024-06-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110027",
+        "Date": "2024-06-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210029",
+        "Date": "2024-06-09"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110022",
+        "Date": "2024-06-09"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110020",
+        "Date": "2024-06-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310048",
+        "Date": "2024-06-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210011",
+        "Date": "2024-06-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310004",
+        "Date": "2024-06-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110002",
+        "Date": "2024-06-11"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210019",
+        "Date": "2024-06-12"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310005",
+        "Date": "2024-06-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110006",
+        "Date": "2024-06-12"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310034",
+        "Date": "2024-06-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310019",
+        "Date": "2024-06-13"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310030",
+        "Date": "2024-06-13"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310046",
+        "Date": "2024-06-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310019",
+        "Date": "2024-06-13"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110021",
+        "Date": "2024-06-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310047",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310002",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110024",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210024",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210008",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310044",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110035",
+        "Date": "2024-06-14"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310033",
+        "Date": "2024-06-15"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310010",
+        "Date": "2024-06-15"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310014",
+        "Date": "2024-06-16"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310048",
+        "Date": "2024-06-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110043",
+        "Date": "2024-06-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310021",
+        "Date": "2024-06-16"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110043",
+        "Date": "2024-06-17"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110039",
+        "Date": "2024-06-17"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210042",
+        "Date": "2024-06-18"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110023",
+        "Date": "2024-06-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210000",
+        "Date": "2024-06-19"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110043",
+        "Date": "2024-06-19"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110047",
+        "Date": "2024-06-20"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310008",
+        "Date": "2024-06-20"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110027",
+        "Date": "2024-06-20"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310046",
+        "Date": "2024-06-20"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310013",
+        "Date": "2024-06-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210006",
+        "Date": "2024-06-21"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310041",
+        "Date": "2024-06-21"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110023",
+        "Date": "2024-06-21"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110013",
+        "Date": "2024-06-21"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210018",
+        "Date": "2024-06-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210028",
+        "Date": "2024-06-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110013",
+        "Date": "2024-06-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310006",
+        "Date": "2024-06-23"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210044",
+        "Date": "2024-06-23"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110045",
+        "Date": "2024-06-23"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210036",
+        "Date": "2024-06-24"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210048",
+        "Date": "2024-06-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210015",
+        "Date": "2024-06-25"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110044",
+        "Date": "2024-06-25"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210036",
+        "Date": "2024-06-25"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110047",
+        "Date": "2024-06-25"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110012",
+        "Date": "2024-06-26"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110014",
+        "Date": "2024-06-26"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110013",
+        "Date": "2024-06-27"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310029",
+        "Date": "2024-06-27"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210038",
+        "Date": "2024-06-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110033",
+        "Date": "2024-06-27"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110010",
+        "Date": "2024-06-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310032",
+        "Date": "2024-06-27"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310029",
+        "Date": "2024-06-28"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310043",
+        "Date": "2024-06-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110021",
+        "Date": "2024-06-28"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210030",
+        "Date": "2024-06-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210011",
+        "Date": "2024-06-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310006",
+        "Date": "2024-06-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310041",
+        "Date": "2024-06-29"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210002",
+        "Date": "2024-06-29"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310035",
+        "Date": "2024-06-29"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210034",
+        "Date": "2024-06-30"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110001",
+        "Date": "2024-06-30"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310024",
+        "Date": "2024-06-30"
+    }
+]
