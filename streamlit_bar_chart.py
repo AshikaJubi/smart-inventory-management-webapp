@@ -52,7 +52,7 @@ def build_lstm_model(past_steps, future_steps):
     lstm_model.add(LSTM(50, return_sequences=True, input_shape=(past_steps, 1)))
     lstm_model.add(Dropout(0.2))
     lstm_model.add(LSTM(50, return_sequences=False))
-    lstm_model.add(Dense(future_steps))
+    lstm_model.add(Dense(future_steps, activation='relu'))  # Ensuring non-negative predictions
     lstm_model.compile(optimizer='adam', loss='mean_squared_error')
     return lstm_model
 
@@ -121,6 +121,9 @@ if initial_stock_file is not None and sold_stock_file is not None:
 
         # Make prediction for the upcoming 90 days
         next_90_days_prediction = lstm_model.predict(last_30_days)
+        
+        # Ensure predictions are non-negative
+        next_90_days_prediction = np.clip(next_90_days_prediction, 0, None)
 
         # Store the predictions for this model
         predictions[model] = next_90_days_prediction.flatten()
@@ -128,28 +131,22 @@ if initial_stock_file is not None and sold_stock_file is not None:
     # Get the list of unique categories
     categories = daily_sales['Category'].unique()
 
-    # Plot predictions for each category separately using bar charts
+    # Plot bar chart predictions for each category
     for category in categories:
-        plt.figure(figsize=(14, 7))
-
-        # Set positions for each bar
-        x_positions = np.arange(future_steps)
-        width = 0.2  # Bar width
+        plt.figure(figsize=(12, 6))
 
         # Loop through the predictions for each model within the category
-        bar_index = 0  # To adjust x positions for different models
         for model, prediction in predictions.items():
             model_category = daily_sales[daily_sales['Model'] == model]['Category'].iloc[0]
             if model_category == category:
-                plt.bar(x_positions + bar_index * width, prediction, width=width, label=model)
-                bar_index += 1
+                days = np.arange(1, future_steps + 1)  # Days from 1 to 90
+                plt.bar(days, prediction, label=f'Model {model}', alpha=0.7)
 
         plt.title(f'Predicted Quantity Sold for the Next 90 Days - Category {category}')
         plt.xlabel('Days')
         plt.ylabel('Quantity Sold')
-        plt.xticks(rotation=45)  # Rotate x-axis labels for readability
         plt.legend()
-        plt.grid(axis='y', linestyle='--', alpha=0.7)
+        plt.grid(axis='y')
         st.pyplot(plt)
 
     # Output predictions
